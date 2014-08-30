@@ -1,0 +1,1 @@
+<div class="clear ls10"></div><div class="space1"></div><div class="clear ls10"></div><?phpecho $data_search;?><div class="clear ls10"></div><div class="space1"></div><div class="clear ls10"></div>
